@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My name is Kevin(Kan-Jen) Liu.
 
 <!--
 **kanjen22/kanjen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/KevinMoS?theme=dark&font=Noto%20Sans%20Modi&ext=heatmap)
